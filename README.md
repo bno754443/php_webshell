@@ -1,2 +1,2 @@
 # php_webshell
-Not responsible of the way you use this script
+Not responsible for how you use this script
